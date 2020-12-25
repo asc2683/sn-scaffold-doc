@@ -1,0 +1,15 @@
+title: Service Portal Scaffold
+description: Documentation for Service Portal Scaffold
+remote_theme: pmarsceill/just-the-docs
+search_enabled: false
+aux_links:
+  "Service Portal Scaffold on GitHub":
+    - "//github.com/asc2683/sn-scaffold"
+aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top"
+nav_sort: case_sensitive
+url: "https://asc2683.github.io"
+baseurl: "/sn-scaffold-doc"
+permalink: pretty
+#color_scheme: dark
