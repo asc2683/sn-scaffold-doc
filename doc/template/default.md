@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Default Template
-parent: template
+parent: Template
 nav_order: 1
 ---
 
