@@ -13,3 +13,11 @@ url: "https://asc2683.github.io"
 baseurl: "/sn-scaffold-doc"
 permalink: pretty
 #color_scheme: dark
+footer_content: "Copyright &copy; 2020-2021 An Chang. Distributed by <a href=\"https://github.com/asc2683/sn-scaffold/blob/main/LICENSE\">MIT license.</a>"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit doc page on GitHub"
+gh_edit_repository: "https://github.com/asc2683/sn-scaffold-doc/" # the github URL for your repo
+gh_edit_branch: "master" # the branch that your docs is served from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
