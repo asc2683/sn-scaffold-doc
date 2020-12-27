@@ -1,6 +1,16 @@
 # Mac
 .DS_Store
 
+# Local
+*.gem
+.bundle
+.ruby-version
+.jekyll-cache
+.sass-cache
+_site
+Gemfile.lock
+node_modules
+
 # Logs
 logs
 *.log
